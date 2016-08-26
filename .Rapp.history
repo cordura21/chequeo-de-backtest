@@ -1,0 +1,2 @@
+load("/Users/andresp/Documents/R Projects/chequeo-de-backtest/all_returns-4.RDS")
+load("/Users/andresp/Documents/R Projects/chequeo-de-backtest/all_returns.RDS")

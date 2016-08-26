@@ -95,5 +95,6 @@ tf_wizards <- c(tf_wizards,"Winton Capital Mgmt. (Futures Fund)")
 
 hf_list[str_detect(hf_names,'BlueTr'),hf_fields]
 tf_wizards <- c(tf_wizards,"Systematica (BlueTrend Fund)")
-data.frame(tf_wizards) %>% View()
+
+# data.frame(tf_wizards) %>% View()
 
